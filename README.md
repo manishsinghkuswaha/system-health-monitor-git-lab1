@@ -96,3 +96,6 @@ Verify with `crontab -l`.
 ## License
 
 MIT
+
+## Training Notes
+This project is used for the Session 9 Git lab.
