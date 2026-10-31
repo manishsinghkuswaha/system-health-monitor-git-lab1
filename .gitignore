@@ -1,0 +1,7 @@
+# logs produced by the monitor
+*.log
+
+# editor / OS junk
+.vscode/
+.DS_Store
+*.swp
